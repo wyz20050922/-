@@ -1,7 +1,3 @@
-/**
- * @Date:   2018-04-24T16:55:34+08:00
- * @Last modified time: 2018-04-24T17:24:21+08:00
- */
 #include <iostream>
 #include <windows.h>
 using namespace std;
